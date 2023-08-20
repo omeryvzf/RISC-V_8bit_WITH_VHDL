@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun Aug 20 14:21:01 2023
+# Process ID: 12776
+# Current directory: C:/Users/omer/RISC_8BIT_ISLEMCI/RISC_8BIT_ISLEMCI.runs/synth_1
+# Command line: vivado.exe -log computer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source computer.tcl
+# Log file: C:/Users/omer/RISC_8BIT_ISLEMCI/RISC_8BIT_ISLEMCI.runs/synth_1/computer.vds
+# Journal file: C:/Users/omer/RISC_8BIT_ISLEMCI/RISC_8BIT_ISLEMCI.runs/synth_1\vivado.jou
+# Running On: DESKTOP-D207UAN, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17010 MB
+#-----------------------------------------------------------
+source computer.tcl -notrace

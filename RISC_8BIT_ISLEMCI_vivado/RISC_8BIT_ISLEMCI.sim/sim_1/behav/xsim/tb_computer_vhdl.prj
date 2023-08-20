@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Desktop/vhdl/rýsc_8bit_islemci/ALU.vhd" \
+"../../../../../Desktop/vhdl/rýsc_8bit_islemci/computer.vhd" \
+"../../../../../Desktop/vhdl/rýsc_8bit_islemci/control_unit.vhd" \
+"../../../../../Desktop/vhdl/rýsc_8bit_islemci/cpu.vhd" \
+"../../../../../Desktop/vhdl/rýsc_8bit_islemci/data_memory.vhd" \
+"../../../../../Desktop/vhdl/rýsc_8bit_islemci/data_path.vhd" \
+"../../../../../Desktop/vhdl/rýsc_8bit_islemci/memory.vhd" \
+"../../../../../Desktop/vhdl/rýsc_8bit_islemci/output_ports.vhd" \
+"../../../../../Desktop/vhdl/rýsc_8bit_islemci/program_memory.vhd" \
+"../../../../RISC_8BIT_ISLEMCI.srcs/sim_1/new/tb_computer.vhd" \
+
+# Do not sort compile order
+nosort
